@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HIEU\\source\\repos\\chimbay\\chimbay\\chimbay.csproj": {}
+    "C:\\Users\\HIEU\\source\\repos\\Window-Application\\chimbay\\chimbay\\chimbay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HIEU\\source\\repos\\chimbay\\chimbay\\chimbay.csproj": {
+    "C:\\Users\\HIEU\\source\\repos\\Window-Application\\chimbay\\chimbay\\chimbay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HIEU\\source\\repos\\chimbay\\chimbay\\chimbay.csproj",
+        "projectUniqueName": "C:\\Users\\HIEU\\source\\repos\\Window-Application\\chimbay\\chimbay\\chimbay.csproj",
         "projectName": "chimbay",
-        "projectPath": "C:\\Users\\HIEU\\source\\repos\\chimbay\\chimbay\\chimbay.csproj",
+        "projectPath": "C:\\Users\\HIEU\\source\\repos\\Window-Application\\chimbay\\chimbay\\chimbay.csproj",
         "packagesPath": "C:\\Users\\HIEU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HIEU\\source\\repos\\chimbay\\chimbay\\obj\\",
+        "outputPath": "C:\\Users\\HIEU\\source\\repos\\Window-Application\\chimbay\\chimbay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

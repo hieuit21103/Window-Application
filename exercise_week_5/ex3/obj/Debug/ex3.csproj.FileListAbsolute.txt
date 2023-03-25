@@ -1,0 +1,11 @@
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\bin\Debug\ex3.exe.config
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\bin\Debug\ex3.exe
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\bin\Debug\ex3.pdb
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.Form1.resources
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.Properties.Resources.resources
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.exe
+C:\Users\HIEU\source\repos\exercise_week_5\ex3\obj\Debug\ex3.pdb

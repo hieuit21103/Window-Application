@@ -1,0 +1,11 @@
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\bin\Debug\ex5.exe.config
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\bin\Debug\ex5.exe
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\bin\Debug\ex5.pdb
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.csproj.AssemblyReference.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.csproj.SuggestedBindingRedirects.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.Form1.resources
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.Properties.Resources.resources
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.csproj.GenerateResource.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.exe
+C:\Users\HIEU\source\repos\exercise_week_5\ex5\obj\Debug\ex5.pdb
